@@ -1,0 +1,14 @@
+jupyter<7
+numpy
+pandas
+matplotlib
+scipy
+dask
+seaborn
+plotly
+plotnine
+bokeh
+ipykernel
+leafmap
+folium
+geopandas
