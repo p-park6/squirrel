@@ -1,4 +1,4 @@
-name: HAAAAAWK
+name: HAAAAWK
 channels:
   - defaults
   - conda-forge
@@ -16,5 +16,6 @@ dependencies:
   - bokeh
   - ipykernel
   - leafmap
-  -folium
-  -geopandas
+  - folium
+  - geopandas
+
