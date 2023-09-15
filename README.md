@@ -22,6 +22,7 @@ Download the NYC Squirrel Census data from Kaggle and save it to your project di
 
 
 ## Example
+```
 #### Create a map centered at a specific location
 m = leafmap.Map(location=[37.7749, -122.4194], zoom_start=10)
 
@@ -33,7 +34,7 @@ marker.add_to(m)
 
 #### Display the map
 m
-
+```
 
 ### Mapping backends
 Ipyleaflet
