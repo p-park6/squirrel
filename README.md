@@ -16,10 +16,8 @@ pip install leafmap
 ### Dependencies
 Before you begin, ensure you have the following prerequisites:
 
-
 Python installed on your machine.
 The LeafMap package installed.
-The Palmerpenguins dataset installed.
 Download the NYC Squirrel Census data from Kaggle and save it to your project directory.
 
 
@@ -37,8 +35,13 @@ marker.add_to(m)
 m
 
 
-### Executing program
-import leafmap.foliumap as leafmap
+### Mapping backends
+Ipyleaflet
+Folium
+Bokeh
+Plotly
+Pydeck
+KeplerGL
 
 
 ## Key Features
